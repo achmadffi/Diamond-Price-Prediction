@@ -1,0 +1,5 @@
+﻿gunicorn
+pandas
+scikit-learn
+streamlit
+xgboost
