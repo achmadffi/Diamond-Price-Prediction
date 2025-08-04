@@ -1,0 +1,3 @@
+﻿gunicorn
+pandas
+scikit-learn
