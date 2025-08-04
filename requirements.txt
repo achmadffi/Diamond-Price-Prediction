@@ -1,3 +1,4 @@
 ﻿gunicorn
 pandas
+xgboost
 scikit-learn
