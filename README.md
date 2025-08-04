@@ -27,4 +27,4 @@ Link Dataset
 https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond
 
 Deployment
-https://hjckxneubvovibvxtd5h3o.streamlit.app/
+https://bafjbcosag5mvmjwcnweiu.streamlit.app/
