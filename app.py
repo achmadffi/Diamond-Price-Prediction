@@ -11,10 +11,13 @@ def load_resources():
         xgb_model = pickle.load(f)
     with open('ordinal_encoder.pkl', 'rb') as f:
         ordinal_encoder = pickle.load(f)
+    with open('power_transformers.pkl', 'rb') as f:
+        power_transformers = pickle.load(f)
     
     return {
         'xgb_model': xgb_model,
-        'ordinal_encoder': ordinal_encoder
+        'ordinal_encoder': ordinal_encoder,
+        'power_transformers': power_transformers
     }
 
 def predict_price(models, input_dict):
