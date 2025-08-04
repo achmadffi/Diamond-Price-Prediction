@@ -14,14 +14,17 @@ Membuat Machine Learning untuk memprediksi harga berlian menggunakan model regre
 
 Tujuan dari pembuatan projek ini adalah untuk membangun model Machine Learning yang akurat untuk memprediksi harga berlian dan diharapkan mampu memberikan estimasi harga yang objektif sebagai acuan dalam transaksi jual beli.
 
-Terdapat 7 model yang saya gunakan diantaranya:
+Terdapat 10 model yang saya gunakan diantaranya:
 1. Linear Regression
 2. ElasticNet
-3. Decision Tree Regression
-4. Random Forest Regression
-5. Gradient Boosting Regression
-6. XGBoost Regression
-7. LGBM Regression
+3. K-Nearest Neighbors Regressor
+4. Support Vector Regressor (SVR)
+5. Decision Tree Regressor
+6. Random Forest Regressor
+7. Gradient Boosting Regressor
+8. XGBoost Regressor
+9. LightGBM Regressor
+10. Multi-layer Perceptron Regressor (MLPRegressor)
 
 Link Dataset
 https://www.kaggle.com/datasets/swatikhedekar/price-prediction-of-diamond
